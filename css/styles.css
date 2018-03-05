@@ -30,7 +30,7 @@ body {
     margin-bottom: 20px;
     text-align: center;
     color: #000000;
-    font-weight: 650;
+    font-weight: 700;
 }
 
 .awardsquote {
@@ -43,12 +43,10 @@ body {
     margin-bottom: 20px;
     text-align: center;
     color: #000000;
-    font-weight: 650;    
+    font-weight: 700;    
 }
 
-.captiontext {
-    color: #FFFFFF
-}
+
 .main-nav {
     color: #000000;
     text-decoration-color: #ebff00;

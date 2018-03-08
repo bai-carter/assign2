@@ -21,7 +21,7 @@ body {
 }
 
 .p-quote {
-    background-color: rgba(166, 167, 160, 0.50);
+    background-color: rgba(166, 167, 160, 0.60);
     border-radius: 30px;
     padding: 10px;
     width: 50%;
@@ -34,7 +34,7 @@ body {
 }
 
 .awardsquote {
-    background-color: rgba(166, 167, 160, 0.50);
+    background-color: rgba(166, 167, 160, 0.60);
     border-radius: 30px;
     padding: 10px;
     width: 80%;
